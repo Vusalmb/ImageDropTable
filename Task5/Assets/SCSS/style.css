@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: darkolivegreen;
+}
+
+.dropArea {
+  border: 5px dashed;
+  margin-top: 20px;
+}
+
+.dropArea .rowArea {
+  height: 300px;
+}
+
+.dropArea .rowArea .title h2 {
+  color: #dec9c9;
+}
+/*# sourceMappingURL=style.css.map */
